@@ -1,0 +1,95 @@
+# Translation of Plugins - Политика конфиденциальности для сайта. Согласие под формами Contact-Form 7 - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Политика конфиденциальности для сайта. Согласие под формами Contact-Form 7 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-28 07:50:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Политика конфиденциальности для сайта. Согласие под формами Contact-Form 7 - Development (trunk)\n"
+
+#: privacy-policy-cf7.php:142
+msgid "Поддержать"
+msgstr "Support"
+
+#: privacy-policy-cf7.php:142
+msgid "Нравится плагин? Поддержите разработчика рублем:"
+msgstr "Like the plugin? Support developer ruble:"
+
+#: privacy-policy-cf7.php:114
+msgid "Скрыть заголовок из текста политики"
+msgstr "Hide caption from policy text"
+
+#: privacy-policy-cf7.php:223
+msgid "Заполните обязательные поля для создания политики конфиденциальности на сайте на <a href=\""
+msgstr "Fill in the required fields to create a privacy policy on the site at <a href=\""
+
+#: privacy-policy-cf7.php:108
+msgid "Скрыть ссылку на политику в подвале"
+msgstr "Скрыть ссылку на политику в подвале"
+
+#: privacy-policy-cf7.php:17 privacy-policy-cf7.php:65
+#: privacy-policy-cf7.php:84 privacy-policy-cf7.php:168
+#: privacy-policy-cf7.php:172 privacy-policy-cf7.php:192
+msgid "Политика конфиденциальности"
+msgstr "Политика конфиденциальности"
+
+#: privacy-policy-cf7.php:90
+msgid "Название организации"
+msgstr "Название организации"
+
+#: privacy-policy-cf7.php:96
+msgid "Контакты организации"
+msgstr "Контакты организации"
+
+#: privacy-policy-cf7.php:102
+msgid "Дата публикации"
+msgstr "Дата публикации"
+
+#: privacy-policy-cf7.php:146
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: privacy-policy-cf7.php:172
+msgid "Наш сайт использует файлы cookies, чтобы улучшить работу и повысить эффективность сайта. Продолжая работу с сайтом, вы соглашаетесь с использованием нами cookies и "
+msgstr "Наш сайт использует файлы cookies, чтобы улучшить работу и повысить эффективность сайта. Продолжая работу с сайтом, вы соглашаетесь с использованием нами cookies и "
+
+#: privacy-policy-cf7.php:172 privacy-policy-cf7.php:192
+msgid "политикой конфиденциальности"
+msgstr "политикой конфиденциальности"
+
+#: privacy-policy-cf7.php:175
+msgid "Принять"
+msgstr "Принять"
+
+#: privacy-policy-cf7.php:192
+msgid "Нажимая кнопку"
+msgstr "Нажимая кнопку"
+
+#: privacy-policy-cf7.php:192
+msgid "Вы автоматически соглашаетесь с"
+msgstr "Вы автоматически соглашаетесь с"
+
+#: privacy-policy-cf7.php:192
+msgid "и даете свое согласие на обработку персональных данных. Ваши данные не будут переданы третьим лицам"
+msgstr "и даете свое согласие на обработку персональных данных. Ваши данные не будут переданы третьим лицам"
+
+#. Plugin Name of the plugin
+msgid "Политика конфиденциальности для сайта. Согласие под формами Contact-Form 7"
+msgstr "Политика конфиденциальности для сайта. Согласие под формами Contact-Form 7"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://aleksinsky.ru"
+msgstr "https://aleksinsky.ru"
+
+#. Description of the plugin
+msgid "Добавляет на сайт страницу с политикой конфиденциальности. Также, добавляет под Контакт Форм 7 согласие на обработку персональных данных. Плагин предназначен только для русскоязычных сайтов. При входе пользователям показывает оповещение о использовании сайтом cookies. Подходит для 152ФЗ."
+msgstr "Добавляет на сайт страницу с политикой конфиденциальности. Также, добавляет под Контакт Форм 7 согласие на обработку персональных данных. Плагин предназначен только для русскоязычных сайтов. При входе пользователям показывает оповещение о использовании сайтом cookies. Подходит для 152ФЗ."
+
+#. Author of the plugin
+msgid "aleksinsky.ru"
+msgstr "aleksinsky.ru"
